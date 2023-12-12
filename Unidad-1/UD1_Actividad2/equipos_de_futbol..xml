@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EquiposDeFutbol>
+    <Equipo>
+        <Nombre>Real Madrid</Nombre>
+        <Ciudad>Madrid</Ciudad>
+        <Entrenador>Carlo Ancelotti</Entrenador>
+        <Jugadores>
+            <Jugador Posicion="delantero">
+                <Nombre>Cristiano Ronaldo</Nombre>
+                <Nacionalidad>Portuguesa</Nacionalidad>
+            </Jugador>
+            <Jugador Posicion="defensa">
+                <Nombre>Sergio Ramos</Nombre>
+                <Nacionalidad>Española</Nacionalidad>
+            </Jugador>
+        </Jugadores>
+    </Equipo>
+    <Equipo>
+        <Nombre>FC Barcelona</Nombre>
+        <Ciudad>Barcelona</Ciudad>
+        <Entrenador>Xavi Hernandez</Entrenador>
+        <Jugadores>
+            <Jugador Posicion="medio">
+                <Nombre>Lionel Messi</Nombre>
+                <Nacionalidad>Argentina</Nacionalidad>
+            </Jugador>
+            <Jugador Posicion="portero">
+                <Nombre>Marc-André ter Stegen</Nombre>
+                <Nacionalidad>Alemana</Nacionalidad>
+            </Jugador>
+        </Jugadores>
+    </Equipo>
+</EquiposDeFutbol>
