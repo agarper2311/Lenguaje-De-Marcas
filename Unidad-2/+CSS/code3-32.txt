@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Este texto es el título del documento</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://educacionadistancia.juntadeandalucia.es/centros/cadiz/pluginfile.php/599159/mod_folder/content/0/misestilos.css">
+</head>
+<body>
+  <header>
+    <span id="titulo">Hojas de Estilo en Cascada</span>
+  </header>
+  <section>
+    <p id="descripcion">Hojas de estilo en cascada (o CSS, siglas en inglés de Cascading Style Sheets) es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en HTML.</p>
+  </section>
+  <footer>
+    <a href="http://www.jdgauchat.com">www.jdgauchat.com</a>
+  </footer>
+</body>
+</html>

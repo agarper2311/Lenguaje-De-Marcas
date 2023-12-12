@@ -1,0 +1,8 @@
+#titulo {
+  font: bold 26px Verdana, sans-serif;
+}
+#descripcion {
+  width: 200px;
+  height: 100px;
+  overflow: hidden;
+}

@@ -1,0 +1,4 @@
+#titulo {
+  font: bold 26px Verdana, sans-serif;
+  color: hsl(0, 0%, 80%);
+}

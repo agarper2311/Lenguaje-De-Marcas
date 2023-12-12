@@ -1,0 +1,21 @@
+header {
+  margin: 30px;
+  padding: 15px;
+  text-align: center;
+  border: 1px solid;
+  animation: mianimacion 1s ease-in-out 0s infinite normal none;
+}
+@keyframes mianimacion {
+  0% {
+    background: #FFFFFF;
+  }
+  50% {
+    background: #FF0000;
+  }
+  100% {
+    background: #FFFFFF;
+  }
+}
+#titulo {
+  font: bold 26px Verdana, sans-serif;
+}

@@ -1,0 +1,7 @@
+#titulo {
+  font: bold 26px MiNuevaLetra, Verdana, sans-serif;
+}
+@font-face {
+  font-family: "MiNuevaLetra";
+  src: url("font.ttf");
+}

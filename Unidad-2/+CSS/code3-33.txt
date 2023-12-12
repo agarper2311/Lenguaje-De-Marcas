@@ -1,0 +1,4 @@
+#titulo {
+  font-family: Verdana, sans-serif;
+  font-size: 26px;
+}
