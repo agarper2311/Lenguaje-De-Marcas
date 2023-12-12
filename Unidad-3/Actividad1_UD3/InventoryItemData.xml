@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ItemsInventario>
+  <ItemInventario ID="xmltut_small_sword" Type="weapon">
+    <TituloItem>Small Sword</TituloItem>
+    <DescItem>This is the first sword you find on your journey. Not very powerful, but it will always be by your side.</DescItem>
+    <Color>
+      <r>167</r>
+      <g>167</g>
+      <b>167</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>smallsword</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_steel_helmet" Type="armor">
+    <TituloItem>Steel Helmet</TituloItem>
+    <DescItem>This helmet crafted from shiny steel will surely protect your noggin in battle.</DescItem>
+    <Color>
+      <r>19</r>
+      <g>218</g>
+      <b>0</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>steelhelmet</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_health_potion_50" Type="consumable">
+    <TituloItem>Small Potion</TituloItem>
+    <DescItem>Restores 50 health.</DescItem>
+    <Color>
+      <r>19</r>
+      <g>218</g>
+      <b>0</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>50healthpot</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_big_sword" Type="weapon">
+    <TituloItem>Legendary Sword</TituloItem>
+    <DescItem>The Legendary Sword will slay all enemies in your path with ease. Due to its size, it may be slow to swing.</DescItem>
+    <Color>
+      <r>255</r>
+      <g>255</g>
+      <b>0</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>bigsword</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_bow" Type="weapon">
+    <TituloItem>Recurve Bow</TituloItem>
+    <DescItem>Shoot enemies from a safe distance with the Recurve Bow! Just don't forget to bring enough arrows!</DescItem>
+    <Color>
+      <r>69</r>
+      <g>169</g>
+      <b>255</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>recurvebow</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_chain_mail" Type="armor">
+    <TituloItem>Chain Mail</TituloItem>
+    <DescItem>This light-weight armor will protect you from small impacts.</DescItem>
+    <Color>
+      <r>19</r>
+      <g>218</g>
+      <b>0</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>chainmail</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_health_potion_100" Type="consumable">
+    <TituloItem>Big Potion</TituloItem>
+    <DescItem>Restores 100 health.</DescItem>
+    <Color>
+      <r>69</r>
+      <g>169</g>
+      <b>255</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>100healthpot</IMAGEN>
+  </ItemInventario>
+
+  <ItemInventario ID="xmltut_wood_shield" Type="armor">
+    <TituloItem>Wooden Shield</TituloItem>
+    <DescItem>This shield protects you from small and medium strength impacts when you are not attacking.</DescItem>
+    <Color>
+      <r>19</r>
+      <g>218</g>
+      <b>0</b>
+      <a>255</a>
+    </Color>
+    <IMAGEN>woodshield</IMAGEN>
+  </ItemInventario>
+</ItemsInventario>
