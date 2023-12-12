@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Documento XML corregido -->
+<vehiculos>
+
+   <terrestres>
+      <vehiculo>bicicleta</vehiculo>
+      <vehiculo>coche</vehiculo>
+      <vehiculo>tractor</vehiculo>
+   </terrestres>
+
+   <acuaticos>
+      <vehiculo>canoa</vehiculo>
+   </acuaticos>
+
+   <aereos>
+      <vehiculo>avioneta</vehiculo>
+      <vehiculo>helicóptero</vehiculo>
+   </aereos>
+
+</vehiculos>
+
+<!-- En éste código habia los siguientes errores de sintaxis:
+1. Etiquetas no cerradas.
+2. No estaba la etiqueta vehículos para almacenar toda las categorías de vehículos.
+-->

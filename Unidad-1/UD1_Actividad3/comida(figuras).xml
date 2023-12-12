@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<comidas>
+
+   <comida tipo="desayuno">
+
+      <nombre>panqueques</nombre>
+
+      <calorias>350</calorias>
+
+   </comida>
+
+   <comida tipo="almuerzo">
+
+      <nombre>ensalada</nombre>
+
+      <calorias>250</calorias>
+
+   </comida>
+
+   <comida tipo="cena">
+
+      <nombre>salmón a la parrilla</nombre>
+
+      <calorias>400</calorias>
+
+   </comida>
+
+</comidas>
+
+<!-- [codigo de ejemplo de la actividad]
+<?xml version="1.0" encoding="UTF-8"?>
+
+<figuras> 
+
+   <figura plana>
+
+      <nombre>cuadrado</nombre>
+
+      </lados 4>
+
+   </figura>
+
+   <figura plana>
+
+      <nombre>triángulo</nombre>
+
+      </lados 3>
+
+   </figura>
+
+   <figura tridimensional>
+
+      <nombre>cubo</nombre>
+
+      </aristas 12>
+
+      </caras 6>
+
+   </figura>
+
+</figuras>
+-->

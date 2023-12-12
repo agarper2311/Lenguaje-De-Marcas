@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<figuras>
+
+   <figura tipo="plana">
+
+      <nombre>cuadrado</nombre>
+
+      <lados>4</lados>
+
+   </figura>
+
+   <figura tipo="plana">
+
+      <nombre>triángulo</nombre>
+
+      <lados>3</lados>
+
+   </figura>
+
+   <figura tipo="tridimensional">
+
+      <nombre>cubo</nombre>
+
+      <aristas>12</aristas>
+
+      <caras>6</caras>
+
+   </figura>
+
+</figuras>
+
+<!-- En éste código habia los siguientes errores de sintaxis:
+1. En la etiqueta figura faltaba el atributo "tipo" para indicar si es una figura plana o tridimensional
+2. He corregido las etiquetas de cierre <lados 4> y <lados 3> para que tengan el formato <lados>4</lados> y <lados>3</lados>.
+3. He corregido las etiquetas de cierre <aristas 12> y <caras 6> para que tengan el formato <aristas>12</aristas> y <caras>6</caras>.
+-->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- En ésta línea faltaba el signo de interrogación al final -->
+
+<!-- Cambiar < frutas > por <frutas> -->
+<frutas>
+<!-- Cambiar < fruta > por <fruta> -->
+   <fruta>
+<!-- Cambiar < nombre > por <nombre> y < nombre\ > por </nombre>-->
+      <nombre>cereza</nombre>
+   </fruta>
+   <fruta>
+      <nombre>naranja</nombre>
+<!-- cambiar < fruta\ > por </fruta>-->
+   </fruta>
+</frutas>

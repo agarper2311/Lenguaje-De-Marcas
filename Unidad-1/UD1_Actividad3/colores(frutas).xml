@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<colores>
+    <color>
+        <name>azul</name>
+    </color>
+    <color>
+        <name>amarillo</name>
+    </color>
+</colores>
+
+<!-- [codigo de ejemplo de la actividad]
+<?xml version="1.0" encoding="UTF-8"?>
+
+< colores >
+
+< color >cereza< color \>
+
+< colores \>
+
+< colores >
+
+< color >naranja< color \>
+
+< colores \>
+
+-->

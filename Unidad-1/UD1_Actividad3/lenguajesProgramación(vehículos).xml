@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lenguajes_de_programacion>
+
+    <lenguaje>Python</lenguaje>
+ 
+    <lenguaje>Java</lenguaje>
+ 
+    <lenguaje>C++</lenguaje>
+ 
+    <lenguaje>JavaScript</lenguaje>
+ 
+    <lenguaje>Ruby</lenguaje>
+ 
+ </lenguajes_de_programacion>
+ 
+
+<!-- [codigo de ejemplo de la actividad]
+
+    Documento XML con errores de sintaxis
+
+<? xml versión="1.0" encodin = "UTF-8" >
+
+<terrestres>
+
+   <vehiculo>bicicleta<vehiculo>
+
+   <vehiculo>coche<vehiculo>
+
+   <vehiculo>tractor<vehiculo>
+
+<acuaticos>
+
+   <vehiculo>canoa<vehiculo>
+
+<aereos>
+
+   <vehiculo>avioneta<vehiculo>
+
+   <vehiculo>helicóptero<vehiculo>
+    -->
