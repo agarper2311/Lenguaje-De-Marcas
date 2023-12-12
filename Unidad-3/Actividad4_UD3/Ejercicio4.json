@@ -1,0 +1,47 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 30,
+        "cargo": "Desarrollador",
+        "salario": 60000,
+        "proyectos": [
+          {
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "2023-01-15",
+            "tareas": [
+              {"id": 101, "descripcion": "Diseño de la interfaz", "estado": "En progreso"},
+              {"id": 102, "descripcion": "Implementación del backend", "estado": "Completada"}
+            ]
+          },
+          {
+            "nombre": "Aplicación Móvil",
+            "fecha_inicio": "2023-03-01",
+            "tareas": [
+              {"id": 103, "descripcion": "Desarrollo de funciones principales", "estado": "En progreso"},
+              {"id": 104, "descripcion": "Pruebas de rendimiento", "estado": "Pendiente"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "María Rodríguez",
+        "edad": 28,
+        "cargo": "Analista de Datos",
+        "salario": 70000,
+        "proyectos": [
+          {
+            "nombre": "Análisis de Datos",
+            "fecha_inicio": "2023-02-10",
+            "tareas": [
+              {"id": 105, "descripcion": "Recopilación de datos", "estado": "Completada"},
+              {"id": 106, "descripcion": "Generación de informes", "estado": "En progreso"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

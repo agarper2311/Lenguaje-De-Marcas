@@ -1,0 +1,65 @@
+{
+    "escuela": {
+      "estudiantes": [
+        {
+          "nombre": "Juan Perez",
+          "edad": 18,
+          "asignaturas": [
+            {
+              "nombre": "Matemáticas",
+              "calificacion": 90
+            },
+            {
+              "nombre": "Historia",
+              "calificacion": 85
+            }
+          ]
+        },
+        {
+          "nombre": "Ana García",
+          "edad": 17,
+          "asignaturas": [
+            {
+              "nombre": "Ciencias",
+              "calificacion": 92
+            },
+            {
+              "nombre": "Literatura",
+              "calificacion": 88
+            }
+          ]
+        }
+      ],
+      "profesores": [
+        {
+          "nombre": "Profesor Smith",
+          "edad": 35,
+          "asignaturas": [
+            {
+              "nombre": "Matemáticas",
+              "creditos": 3
+            },
+            {
+              "nombre": "Ciencias",
+              "creditos": 4
+            }
+          ]
+        },
+        {
+          "nombre": "Profesora Johnson",
+          "edad": 40,
+          "asignaturas": [
+            {
+              "nombre": "Historia",
+              "creditos": 3
+            },
+            {
+              "nombre": "Literatura",
+              "creditos": 4
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
