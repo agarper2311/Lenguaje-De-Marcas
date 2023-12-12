@@ -1,0 +1,3 @@
+section :not(.mitexto2) {
+  margin: 0px;
+}

@@ -1,0 +1,12 @@
+p:nth-child(1) {
+  background-color: #999999;
+}
+p:nth-child(2) {
+  background-color: #CCCCCC;
+}
+p:nth-child(3) {
+  background-color: #999999;
+}
+p:nth-child(4) {
+  background-color: #CCCCCC;
+}

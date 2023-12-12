@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Este texto es el título del documento</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://educacionadistancia.juntadeandalucia.es/centros/cadiz/pluginfile.php/599157/mod_folder/content/0/misestilos.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Título</h1>
+      <p>Esta es la introducción</p>
+    </header>
+    <section>
+      <p>Frase 1</p>
+      <p>Frase 2</p>
+      <p>Frase 3</p>
+      <p>Frase 4</p>
+    </section>
+  </main>
+</body>
+</html>
