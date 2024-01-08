@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <!DOCTYPE biblioteca [
     <!ELEMENT biblioteca (libro+)>
     <!ELEMENT libro (autores, titulo, editorial, fecha_Publicacion, ISBN)>
