@@ -1,0 +1,17 @@
+<!DOCTYPE gestionClientes SYSTEM "Actividad 4\gestionClientes.dtd">
+<gestionClientes>
+  <sede>
+    <codigoSede>S01A3456</codigoSede>
+    <empleado>Juan Perez</empleado>
+    <fechaAlta>2024-01-18</fechaAlta>
+    <direccion>Calle Principal, 123</direccion>
+    <cliente>
+      <codigoCliente>ABC-123</codigoCliente>
+      <descripcion>solvente</descripcion>
+      <numViviendas>3</numViviendas>
+      <costeVivienda>150000.00</costeVivienda>
+      <resumenViviendas>Resumen de las viviendas</resumenViviendas>
+      <plazoHacienda>2024-12-31</plazoHacienda>
+    </cliente>
+  </sede>
+</gestionClientes>
