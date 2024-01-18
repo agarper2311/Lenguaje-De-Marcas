@@ -1,7 +1,5 @@
 
 
-
-
     <!ELEMENT concesionario (Coche*)>
     <!ELEMENT Coche (codigo_de_coche, marca, modelo, matricula, potenciacv, plazas, num_puertas)>
     <!ELEMENT codigo_de_coche (#PCDATA)>
@@ -11,4 +9,3 @@
     <!ELEMENT potenciacv (#PCDATA)>
     <!ELEMENT plazas (#PCDATA)>
     <!ELEMENT num_puertas (#PCDATA)>
-

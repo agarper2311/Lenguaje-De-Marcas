@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Actividad 2/concesionario.dtd" type="application/xml-dtd"?>
+
+<concesionario>
+    <Coche>
+        <codigo_de_coche>12345678 </codigo_de_coche>
+        <marca> Ford</marca>
+        <modelo> Mustang</modelo>
+        <matricula>1234htd </matricula>
+        <potenciacv>150cv </potenciacv>
+        <plazas>4 </plazas>
+        <num_puertas> 3</num_puertas>
+    </Coche>
+    <Coche>
+        <codigo_de_coche>23456789 </codigo_de_coche>
+        <marca> Audi</marca>
+        <modelo> A3</modelo>
+        <matricula> 2324NMZ</matricula>
+        <potenciacv> 130cv</potenciacv>
+        <plazas> 5</plazas>
+        <num_puertas>5 </num_puertas>
+    </Coche>
+</concesionario>
