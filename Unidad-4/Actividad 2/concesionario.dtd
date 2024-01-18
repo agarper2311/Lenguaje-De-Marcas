@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 
 
-<!DOCTYPE concesionario [
+
+
     <!ELEMENT concesionario (Coche*)>
     <!ELEMENT Coche (codigo_de_coche, marca, modelo, matricula, potenciacv, plazas, num_puertas)>
     <!ELEMENT codigo_de_coche (#PCDATA)>
@@ -11,16 +11,4 @@
     <!ELEMENT potenciacv (#PCDATA)>
     <!ELEMENT plazas (#PCDATA)>
     <!ELEMENT num_puertas (#PCDATA)>
-]>
 
-<concesionario>
-    <Coche>
-        <codigo_de_coche> </codigo_de_coche>
-        <marca> </marca>
-        <modelo> </modelo>
-        <matricula> </matricula>
-        <potenciacv> </potenciacv>
-        <plazas> </plazas>
-        <num_puertas> </num_puertas>
-    </Coche>
-</concesionario>
