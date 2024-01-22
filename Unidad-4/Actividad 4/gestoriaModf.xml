@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gestoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="gestoriaModf.xsd">
+ <Sede>
+    <cliente codigo="AAA-112">
+        <desCliente>Insolvente</desCliente>
+        <numero>10</numero>
+        <vivienda ID="001">
+            <coste>100</coste>
+            <resumen>Producto muy frágil</resumen>
+            <plazo>10</plazo>
+        </vivienda>
+        <vivienda ID="002">
+            <coste>100</coste>
+            <resumen>Producto no frágil</resumen>
+            <plazo>10</plazo>
+        </vivienda>
+    </cliente>
+ </Sede>
+</Gestoria>

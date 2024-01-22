@@ -1,0 +1,33 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+ <xs:element name="Gestoria">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Sede">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cliente">
+                <xs:complexType>
+                 <xs:sequence>
+                    <xs:element name="desCliente" type="xs:string"/>
+                    <xs:element name="numero" type="xs:integer"/>
+                    <xs:element name="vivienda" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="coste" type="xs:decimal"/>
+                          <xs:element name="resumen" type="xs:string"/>
+                          <xs:element name="plazo" type="xs:integer"/>
+                        </xs:sequence>
+                        <xs:attribute name="ID" type="xs:string" use="required"/>
+                      </xs:complexType>
+                    </xs:element>
+                 </xs:sequence>
+                 <xs:attribute name="codigo" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+ </xs:element>
+</xs:schema>

@@ -1,0 +1,23 @@
+<!DOCTYPE Gestoria SYSTEM "gestoria.dtd">
+<Gestoria>
+    <Sede>
+       <Empleado>Juan Perez</Empleado>
+       <Fecha>2024-01-22</Fecha>
+       <Cliente>
+         <codCliente>AAA-112</codCliente>
+         <descCliente>Insolvente</descCliente>
+         <vivienda>10</vivienda>
+         <coste>100</coste>
+         <resumen>Producto muy frágil</resumen>
+         <plazo>10</plazo>
+       </Cliente>
+       <Cliente>
+         <codCliente>BBB-113</codCliente>
+         <descCliente>Insolvente</descCliente>
+         <vivienda>10</vivienda>
+         <coste>100</coste>
+         <resumen>Producto no frágil</resumen>
+         <plazo>17</plazo>
+       </Cliente>
+    </Sede>
+   </Gestoria>

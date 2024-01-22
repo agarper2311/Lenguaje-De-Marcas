@@ -1,0 +1,12 @@
+
+<!ELEMENT Gestoria (Sede+) >
+<!ELEMENT Sede (Empleado, Fecha, Cliente*) >
+<!ELEMENT Empleado (#PCDATA) >
+<!ELEMENT Fecha (#PCDATA) >
+<!ELEMENT Cliente (codCliente, descCliente, vivienda, coste, resumen, plazo) >
+<!ELEMENT codCliente (#PCDATA) >
+<!ELEMENT descCliente (#PCDATA) >
+<!ELEMENT vivienda (#PCDATA) >
+<!ELEMENT coste (#PCDATA) >
+<!ELEMENT resumen (#PCDATA) >
+<!ELEMENT plazo (#PCDATA) >
