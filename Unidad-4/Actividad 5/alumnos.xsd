@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="alumnos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="alumno" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nif" type="xs:string"/>
+                            <xs:element name="resultado" type="xs:string"/>
+                            <xs:element name="observaciones" type="xs:string" minOccurs="0"/>
+                            <xs:choice minOccurs="0">
+                                <xs:element name="ip" type="xs:string"/>
+                                <xs:element name="mac" type="xs:string"/>
+                            </xs:choice>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
