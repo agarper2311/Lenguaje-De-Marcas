@@ -5,3 +5,4 @@
 <!ELEMENT ud (descripcion)>
 <!ATTLIST ud tipo CDATA #REQUIRED>
 <!ELEMENT descripcion (#PCDATA)>
+ 

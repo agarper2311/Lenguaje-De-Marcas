@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE informe SYSTEM "ventas.dtd">
+<informe>
+    <titulo>Informe regional de ventas</titulo>
+    <descripcion>informe de ventas para las regiones Norte, Centro y Sur</descripcion>
+    <fecha>30/12/2009</fecha>
+    <ventas>
+        <region nombre="Norte">
+            <trimestre1><libros>24000</libros></trimestre1>
+            <trimestre2><libros>38600</libros></trimestre2>
+            <trimestre3><libros>NO_INFO</libros></trimestre3>
+            <trimestre4><libros>NO_INFO</libros></trimestre4>
+        </region>
+        <region nombre="Centro">
+            <trimestre1><libros>NO_INFO</libros></trimestre1>
+            <trimestre2><libros>16080</libros></trimestre2>
+            <trimestre3><libros>25000</libros></trimestre3>
+            <trimestre4><libros>29000</libros></trimestre4>
+        </region>
+        <region nombre="Sur">
+            <trimestre1><libros>27000</libros></trimestre1>
+            <trimestre2><libros>31400</libros></trimestre2>
+            <trimestre3><libros>40100</libros></trimestre3>
+            <trimestre4><libros>30000</libros></trimestre4>
+        </region>
+    </ventas>
+</informe>

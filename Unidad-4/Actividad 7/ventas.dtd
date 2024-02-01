@@ -1,0 +1,12 @@
+<!ELEMENT informe (titulo, descripcion, fecha, ventas)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT ventas (region+)>
+<!ELEMENT region (trimestre1, trimestre2, trimestre3, trimestre4)>
+<!ATTLIST region nombre CDATA #REQUIRED>
+<!ELEMENT trimestre1 (libros)>
+<!ELEMENT trimestre2 (libros)>
+<!ELEMENT trimestre3 (libros)>
+<!ELEMENT trimestre4 (libros)>
+<!ELEMENT libros (#PCDATA)>
