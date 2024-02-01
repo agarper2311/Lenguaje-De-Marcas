@@ -1,0 +1,17 @@
+{
+    "biblioteca": [
+        {
+            "autores": [
+                {
+                    "apellido1": null,
+                    "apellido2": null,
+                    "nombre": null
+                }
+            ],
+            "titulo": null,
+            "editorial": null,
+            "fecha_Publicacion": null,
+            "ISBN": null
+        }
+    ]
+}

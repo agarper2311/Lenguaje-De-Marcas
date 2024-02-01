@@ -1,0 +1,26 @@
+{
+    "Gestoria": [
+        {
+            "Empleado": "Juan Perez",
+            "Fecha": "2024-01-22",
+            "Clientes": [
+                {
+                    "codCliente": "AAA-112",
+                    "descCliente": "Insolvente",
+                    "vivienda": "10",
+                    "coste": "100",
+                    "resumen": "Producto muy frágil",
+                    "plazo": "10"
+                },
+                {
+                    "codCliente": "BBB-113",
+                    "descCliente": "Insolvente",
+                    "vivienda": "10",
+                    "coste": "100",
+                    "resumen": "Producto no frágil",
+                    "plazo": "17"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "modulos": [
+        {
+            "nombre": "Programación",
+            "contenidos": [
+                {
+                    "tipo": "Teórica",
+                    "descripcion": "Introducción a la Programación"
+                },
+                {
+                    "tipo": "Práctica",
+                    "descripcion": "Programación Orientada a Objetos"
+                }
+            ]
+        },
+        {
+            "nombre": "Base de Datos",
+            "contenidos": [
+                {
+                    "tipo": "Teórica",
+                    "descripcion": "Modelos de Datos"
+                },
+                {
+                    "tipo": "Práctica",
+                    "descripcion": "SQL Avanzado"
+                }
+            ]
+        }
+    ]
+}

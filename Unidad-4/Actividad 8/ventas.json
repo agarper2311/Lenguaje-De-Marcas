@@ -1,0 +1,34 @@
+{
+    "titulo": "Informe regional de ventas",
+    "descripcion": "informe de ventas para las regiones Norte, Centro y Sur",
+    "fecha": "30/12/2009",
+    "ventas": [
+        {
+            "nombre": "Norte",
+            "trimestres": {
+                "trimestre1": "24000",
+                "trimestre2": "38600",
+                "trimestre3": "NO_INFO",
+                "trimestre4": "NO_INFO"
+            }
+        },
+        {
+            "nombre": "Centro",
+            "trimestres": {
+                "trimestre1": "NO_INFO",
+                "trimestre2": "16080",
+                "trimestre3": "25000",
+                "trimestre4": "29000"
+            }
+        },
+        {
+            "nombre": "Sur",
+            "trimestres": {
+                "trimestre1": "27000",
+                "trimestre2": "31400",
+                "trimestre3": "40100",
+                "trimestre4": "30000"
+            }
+        }
+    ]
+}

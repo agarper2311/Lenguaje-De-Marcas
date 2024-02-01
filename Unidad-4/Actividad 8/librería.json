@@ -1,0 +1,22 @@
+{
+    "biblioteca": [
+        {
+            "autores": [
+                {
+                    "apellido1": "Brown",
+                    "apellido2": null,
+                    "nombre": "Dan"
+                },
+                {
+                    "apellido1": null,
+                    "apellido2": null,
+                    "nombre": null
+                }
+            ],
+            "titulo": "El Código Da Vinci",
+            "editorial": "Planeta",
+            "fecha_Publicacion": "29/08/2017",
+            "ISBN": "978-8408175728"
+        }
+    ]
+}
