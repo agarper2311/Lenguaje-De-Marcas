@@ -1,0 +1,22 @@
+{
+    "Coche": [
+        {
+            "codigo_de_coche": "12345678 ",
+            "marca": " Ford",
+            "modelo": " Mustang",
+            "matricula": "1234htd ",
+            "potenciacv": "150cv ",
+            "plazas": "4 ",
+            "num_puertas": " 3"
+        },
+        {
+            "codigo_de_coche": "23456789 ",
+            "marca": " Audi",
+            "modelo": " A3",
+            "matricula": " 2324NMZ",
+            "potenciacv": " 130cv",
+            "plazas": " 5",
+            "num_puertas": "5 "
+        }
+    ]
+}
