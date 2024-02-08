@@ -31,7 +31,7 @@ schema = {
             "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$"
           }
         },
-        "required": ["nif", "resultado"],
+        "required": ["nif", "resultado", "ip"],
         "additionalProperties": False
       }
     }
@@ -53,7 +53,8 @@ archivo_json = '''
         {
             "nif": "23456789B",
             "resultado": "No apto",
-            "mac": "00:1B:44:11:3A:B7"
+            "mac": "00:1B:44:11:3A:B7",
+            "ip": "192.168.1.3"
         },
         {
             "nif": "34567890C",
