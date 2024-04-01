@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="BD_Libros.xsl" type="text/xsl"?>
+<!DOCTYPE Libros [
+<!ELEMENT Libros (libro+)>
+<!ELEMENT libro (Cod_Libro, Titulo, Editorial, Edicion, ISBN, NumPaginas, Autores)>
+<!ELEMENT Cod_Libro (#PCDATA)>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Editorial (#PCDATA)>
+<!ELEMENT Edicion (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT NumPaginas (#PCDATA)>
+<!ELEMENT Autores (autor+)>
+<!ELEMENT autor (Cod_Autor, Nombre, Apellidos, FechaNacimiento, Nacionalidad)>
+<!ELEMENT Cod_Autor (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Apellidos (#PCDATA)>
+<!ELEMENT FechaNacimiento (#PCDATA)>
+<!ELEMENT Nacionalidad (#PCDATA)>
+]>
+<Libros>
+    <libro>
+        <Cod_Libro>1</Cod_Libro>
+        <Titulo>Don Quijote de la Mancha</Titulo>
+        <Editorial>Juan de la Cuesta</Editorial>
+        <Edicion>3</Edicion>
+        <ISBN>9788466745840</ISBN>
+        <NumPaginas>176</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>1</Cod_Autor>
+                <Nombre>Miguel</Nombre>
+                <Apellidos>de Cervantes Saavedra</Apellidos>
+                <FechaNacimiento>29/09/1547</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+            <autor>
+                <Cod_Autor>1</Cod_Autor>
+                <Nombre>Alguien</Nombre>
+                <Apellidos>Apellido inventado</Apellidos>
+                <FechaNacimiento>29/09/1547</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+    <libro>
+        <Cod_Libro>2</Cod_Libro>
+        <Titulo>La Celestina</Titulo>
+        <Editorial>Maxtor</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788471664938</ISBN>
+        <NumPaginas>320</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>2</Cod_Autor>
+                <Nombre>Fernando</Nombre>
+                <Apellidos>de Rojas</Apellidos>
+                <FechaNacimiento>01/01/1470</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+            <autor>
+                <Cod_Autor>2</Cod_Autor>
+                <Nombre>Alejandro</Nombre>
+                <Apellidos>Apellido inventado</Apellidos>
+                <FechaNacimiento>01/01/1470</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+    <libro>
+        <Cod_Libro>3</Cod_Libro>
+        <Titulo>La brujula interior</Titulo>
+        <Editorial>Urano</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788495787910</ISBN>
+        <NumPaginas>174</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>3</Cod_Autor>
+                <Nombre>Alex</Nombre>
+                <Apellidos>Rovira Celma</Apellidos>
+                <FechaNacimiento>01/03/1969</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+    <libro>
+        <Cod_Libro>4</Cod_Libro>
+        <Titulo>Polvo eres II: Muertes estelares de la humanidad</Titulo>
+        <Editorial>La esfera de los libros</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788499700403</ISBN>
+        <NumPaginas>412</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>4</Cod_Autor>
+                <Nombre>Nieves</Nombre>
+                <Apellidos>Concostrina</Apellidos>
+                <FechaNacimiento>01/03/1961</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+    <libro>
+        <Cod_Libro>5</Cod_Libro>
+        <Titulo>La huella de un beso</Titulo>
+        <Editorial>Punto de Lectura</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788466324809</ISBN>
+        <NumPaginas>272</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>5</Cod_Autor>
+                <Nombre>Daniel</Nombre>
+                <Apellidos>Glattauer</Apellidos>
+                <FechaNacimiento>02/04/1960</FechaNacimiento>
+                <Nacionalidad>Austria</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+    <libro>
+        <Cod_Libro>6</Cod_Libro>
+        <Titulo>La escuela de ingredientes esenciales</Titulo>
+        <Editorial>Suma</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788483651469</ISBN>
+        <NumPaginas>400</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>6</Cod_Autor>
+                <Nombre>Erica</Nombre>
+                <Apellidos>Bauermeister</Apellidos>
+                <FechaNacimiento>25/5/1959</FechaNacimiento>
+                <Nacionalidad>Estadounidense (California)</Nacionalidad>
+            </autor>
+    </Autores>
+</libro>
+<libro>
+    <Cod_Libro>7</Cod_Libro>
+    <Titulo>Las viudas de Eastwick</Titulo>
+    <Editorial>1</Editorial>
+    <Edicion>Tusquets Editores</Edicion>
+    <ISBN>9788483833209</ISBN>
+    <NumPaginas>400</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>7</Cod_Autor>
+            <Nombre>John</Nombre>
+            <Apellidos>Updike</Apellidos>
+            <FechaNacimiento>28/7/1932</FechaNacimiento>
+            <Nacionalidad>Estadounidense</Nacionalidad>
+        </autor>
+    </Autores>
+</libro>
+<libro>
+    <Cod_Libro>8</Cod_Libro>
+    <Titulo>La cupula</Titulo>
+    <Editorial>Plaza &amp; Janes Editores</Editorial>
+    <Edicion>1</Edicion>
+    <ISBN>9788401337529</ISBN>
+    <NumPaginas>1136</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>8</Cod_Autor>
+            <Nombre>Stephen</Nombre>
+            <Apellidos>King</Apellidos>
+            <FechaNacimiento>21/09/1947</FechaNacimiento>
+            <Nacionalidad>Estadounidense</Nacionalidad>
+        </autor>
+    </Autores>
+</libro>
+<libro>
+    <Cod_Libro>9</Cod_Libro>
+    <Titulo>En mares salvajes: Un viaje al artico</Titulo>
+    <Editorial>Plaza &amp; Janes Editores</Editorial>
+    <Edicion>1</Edicion>
+    <ISBN>9788401347542</ISBN>
+    <NumPaginas>448</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>9</Cod_Autor>
+            <Nombre>Javier</Nombre>
+            <Apellidos>Reverte</Apellidos>
+            <FechaNacimiento>01/01/1944</FechaNacimiento>
+            <Nacionalidad>Española</Nacionalidad>
+        </autor>
+    </Autores>
+</libro>
+<libro>
+    <Cod_Libro>10</Cod_Libro>
+    <Titulo>Las recetas de Dukan</Titulo>
+    <Editorial>RBA Libros</Editorial>
+    <Edicion>1</Edicion>
+    <ISBN>9788492981380</ISBN>
+    <NumPaginas>320</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>10</Cod_Autor>
+            <Nombre>Pierre</Nombre>
+            <Apellidos>Dukan</Apellidos>
+            <FechaNacimiento>02/09/1934</FechaNacimiento>
+            <Nacionalidad>Francesa</Nacionalidad>
+        </autor>
+    </Autores>
+</libro>
+</Libros> 
