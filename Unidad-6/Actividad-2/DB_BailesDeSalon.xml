@@ -54,4 +54,24 @@
     <profesor>Miriam Gutierrez</profesor>
     <sala>s</sala>
 </baile>
+<!--Inserción: Añadir un nuevo baile-->
+<baile>
+    <nombre>Pasodoble</nombre>
+    <precio cuota="mensual" moneda="dolares">22</precio>
+    <plazas>12</plazas>
+    <comienzo>1/1/2012</comienzo>
+    <fin>31/07/2012</fin>
+    <profesor>Freddy Astaire</profesor>
+    <sala>3</sala>
+</baile>
+<!--Reemplazo (En el ejemplo anterior)-->
+<baile>
+    <nombre>Pasodoble</nombre>
+    <precio cuota="mensual" moneda="dolares">22</precio>
+    <plazas>14</plazas>
+    <comienzo>1/1/2012</comienzo>
+    <fin>31/07/2012</fin>
+    <profesor>Angel Correllada</profesor>
+    <sala>3</sala>
+</baile>
 </Bailes>
