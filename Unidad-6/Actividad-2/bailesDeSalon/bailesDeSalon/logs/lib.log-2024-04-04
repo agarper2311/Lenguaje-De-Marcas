@@ -1,0 +1,17 @@
+12:26:07.821  INFO  [lib bailesDeSalon] Qizx 4.4p1 creating new XML Library in D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon\bailesDeSalon
+12:26:07.821  INFO  [lib bailesDeSalon] create storage in D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon\bailesDeSalon\contents.qdb
+12:26:07.837  INFO  [lib bailesDeSalon] storage created
+12:26:08.149  INFO  [lib bailesDeSalon] library creation done
+12:26:31.300  INFO  [lib bailesDeSalon] commit start bailesDeSalon (session 1)
+12:26:31.566  INFO  [lib bailesDeSalon] commit 1 on bailesDeSalon (session 1)
+12:26:31.800  INFO  [lib bailesDeSalon] commit 1 done
+12:26:31.800  INFO  [lib bailesDeSalon] commit end bailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+12:26:31.800  INFO  [lib bailesDeSalon] sweeper deleted 1/1 metadocs: 5
+13:00:22.322  INFO  [lib bailesDeSalon] All sessions closed
+13:00:22.322  INFO  [lib bailesDeSalon] Sweeper stopped
+13:00:22.385  INFO  [lib bailesDeSalon] library closed 
+13:01:40.415  INFO  [lib bailesDeSalon] Library opened by Qizx 4.4p1
+13:01:40.415  INFO  [lib bailesDeSalon]  location D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon\bailesDeSalon
+13:01:40.415  INFO  [lib bailesDeSalon]  document storage version=5, lastBId=13, BCount=12, maxA=502
+13:02:46.428  INFO  [lib bailesDeSalon] All sessions closed
+13:02:46.428  INFO  [lib bailesDeSalon] library closed 

@@ -1,0 +1,11 @@
+12:25:57.005  INFO  [LibraryManager] ---- group creation in D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon
+12:25:57.005  INFO  [LibraryManager]  100
+13:00:22.322  INFO  [LibraryManager] shutdown begins
+13:00:22.400  INFO  [LibraryManager]  closed library bailesDeSalon
+13:00:22.400  INFO  [LibraryManager] shutdown complete.
+13:01:40.337  INFO  [LibraryManager] ---- starting up ----
+13:01:40.337  INFO  [LibraryManager]  100
+13:01:40.415  INFO  [LibraryManager] Library group ready
+13:02:46.428  INFO  [LibraryManager] shutdown begins
+13:02:46.444  INFO  [LibraryManager]  closed library bailesDeSalon
+13:02:46.444  INFO  [LibraryManager] shutdown complete.

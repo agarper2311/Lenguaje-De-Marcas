@@ -44,7 +44,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td><xsl:value-of select="NumPaginas"/></td>
                             <td>
                                 <xsl:for-each select="Autores/autor">
-                                    <xsl:value-of select="concat(Nombre, ' ', Apellidos, ' (', Nacionalidad, ')')"/>
+                                    <xsl:value-of select="concat(Nombre, ' ', Apellidos, ' (', Nacionalidad, ')' )"/>
                                     <xsl:if test="position()!=last()">
                                         <br/>
                                     </xsl:if>
