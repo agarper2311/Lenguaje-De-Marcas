@@ -12,3 +12,9 @@
 10:45:39.307  INFO  [LibraryManager] ---- starting up ----
 10:45:39.417  INFO  [LibraryManager]  100
 10:45:39.651  INFO  [LibraryManager] Library group ready
+12:24:11.526  INFO  [LibraryManager] shutdown begins
+12:24:11.548  INFO  [LibraryManager]  closed library bailesDeSalon
+12:24:11.548  INFO  [LibraryManager] shutdown complete.
+12:28:32.727  INFO  [LibraryManager] ---- starting up ----
+12:28:32.727  INFO  [LibraryManager]  100
+12:28:32.787  INFO  [LibraryManager] Library group ready

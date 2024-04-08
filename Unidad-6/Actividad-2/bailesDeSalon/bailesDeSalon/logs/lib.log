@@ -1,3 +1,8 @@
 10:45:39.542  INFO  [lib bailesDeSalon] Library opened by Qizx 4.4p1
 10:45:39.651  INFO  [lib bailesDeSalon]  location D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon\bailesDeSalon
 10:45:39.651  INFO  [lib bailesDeSalon]  document storage version=5, lastBId=13, BCount=12, maxA=502
+12:24:11.526  INFO  [lib bailesDeSalon] All sessions closed
+12:24:11.535  INFO  [lib bailesDeSalon] library closed 
+12:28:32.787  INFO  [lib bailesDeSalon] Library opened by Qizx 4.4p1
+12:28:32.787  INFO  [lib bailesDeSalon]  location D:\Instituto\Lenguaje-De-Marcas\Unidad-6\Actividad-2\bailesDeSalon\bailesDeSalon
+12:28:32.787  INFO  [lib bailesDeSalon]  document storage version=5, lastBId=13, BCount=12, maxA=502
